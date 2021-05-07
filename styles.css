@@ -112,7 +112,7 @@ div.buttons {
   height: 45px;
   margin-top: 2em;
   padding: 20px 40px 20px 45px;
-  background-image: url(/images/search.png), url(/images/mic.png);
+  background-image: url("/images/search.png"), url("/images/mic.png");
   background-position: left 15px top 15px, right 15px top 10px;
   background-repeat: no-repeat, no-repeat;
   background-size: 16px, 15px;
